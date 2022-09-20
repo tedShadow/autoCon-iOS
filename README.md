@@ -2,7 +2,7 @@
   <br>
   <img src="https://raw.githubusercontent.com/tedShadow/nxbt/master/docs/img/180.png" alt="AutoCon" width="200">
   <br>
-  NXBT
+  AutoCon-iOS
   <br>
 </h1>
 
