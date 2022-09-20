@@ -8,6 +8,7 @@
 
 <h4 align="center">Control your Nintendo Switch through a iOS device with macro.</h4>
 
+<img src="https://raw.githubusercontent.com/tedShadow/nxbt/master/docs/img/screen.png" alt="AutoCon" width="200">
 
 
 ## INSTALL
