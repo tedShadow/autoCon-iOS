@@ -26,7 +26,7 @@ waiting for review from Apple
 
 <h1 align="center">
   <br>
-  <img src="https://raw.githubusercontent.com/Brikwerk/nxbt/master/docs/img/nxbt-logo.png" alt="NXBT" width="200">
+  <img src="https://raw.githubusercontent.com/tedShadow/nxbt/master/docs/img/180.png" alt="AutoCon" width="200">
   <br>
   NXBT
   <br>
