@@ -1,3 +1,22 @@
+## NXBT with IOS Auto Controller
+
+The idea was make iphone works as a nintendo switch pro controller that could record macro and play macro easily.
+
+A Big thank you to Brikwerk, This project was based on https://github.com/Brikwerk/nxbt
+
+Current working on IOS App
+
+
+## INSTALL
+Laptop, raspberry or PC with bluetooth adapter:
+pip3 install nxbt
+sudo python3 autoCon.py
+
+iOS:
+waiting for review from Apple
+
+
+
 <h1 align="center">
   <br>
   <img src="https://raw.githubusercontent.com/Brikwerk/nxbt/master/docs/img/nxbt-logo.png" alt="NXBT" width="200">
