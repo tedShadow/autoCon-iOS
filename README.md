@@ -10,6 +10,7 @@ Current working on IOS App
 ## INSTALL
 Laptop, raspberry or PC with bluetooth adapter:
 pip3 install nxbt
+pip3 install websocket_server
 sudo python3 autoCon.py
 
 iOS:
