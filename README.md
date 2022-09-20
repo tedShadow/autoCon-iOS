@@ -8,7 +8,6 @@
 
 <h4 align="center">Control your Nintendo Switch through a iOS device with macro.</h4>
 
-<div align="center">
 
 
 ## INSTALL
